@@ -1,0 +1,19 @@
+{
+  "name": "funnything",
+  "version": "1.0.0",
+  "description": "lab place",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mingttong/funnything.git"
+  },
+  "author": "mingttong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mingttong/funnything/issues"
+  },
+  "homepage": "https://github.com/mingttong/funnything#readme"
+}

@@ -1,0 +1,3 @@
+<view class="container">
+    <navigator url="/pages/userInfo/userInfo">进入测试界面</navigator>
+</view>
